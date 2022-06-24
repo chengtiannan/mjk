@@ -1,75 +1,100 @@
-
-
 {
 "sites": [
-{"key":"csp_xpath___在线之家","name":"在线之家(XP)","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengtiannan/k/main/zxzj.json"},
 {"key": "csp_77","name": "七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/chengtiannan/k/main/lezhutv.json"},
-{"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengtiannan/k/main/lib.json"},
-{"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengtiannan/k/main/dadagui.json"},
-{"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengtiannan/k/main/jubaibai.json"},
+{"key":"csp_xpath___在线之家","name":"在线之家(XP)","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/zxzj.json"},
+{"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/lezhutv.json"},
+{"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/lib.json"},
+{"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/dadagui.json"},
+{"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jubaibai.json"},
 {"key":"csp_appysv2_迪迪","name":"迪迪(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
 {
 "key": "csp_xpath_94sm",
-"name": "94神马(XPath)",
+"name": "94神马(XP)",
 "type": 3,
 "api": "csp_XPath",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://raw.githubusercontent.com/chengtiannan/k/main/94sm.json"
+"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/94sm.json"
 },
 {
 "key": "csp_xpath_age",
-"name": "AGE动漫(XPath)",
+"name": "AGE动漫(XP)",
 "type": 3,
 "api": "csp_XPath",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://raw.githubusercontent.com/chengtiannan/k/main/agefans.json"
+"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/agefans.json"
 },
 {
 "key": "csp_xpath_jpyszl",
-"name": "极品直链(XPath)",
+"name": "极品直链(XP)",
 "type": 3,
 "api": "csp_XPathMac",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://raw.githubusercontent.com/chengtiannan/k/main/jpys.json"
+"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jpys.json"
 },
 {"key":"csp_appysv2_天空V2","name":"天空V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
 {"key":"csp_appysv2_天空","name":"天空(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
 {
 "key": "csp_xpath_tvci",
-"name": "大师兄(XPath)",
+"name": "大师兄(XP)",
 "type": 3,
 "api": "csp_XPath",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://raw.githubusercontent.com/chengtiannan/k/main/tvci.json"
+"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/tvci.json"
 },
 {
 "key": "csp_xpath_duboku",
-"name": "独播库(XPath)",
+"name": "独播库(XP)",
 "type": 3,
 "api": "csp_XPath",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://raw.githubusercontent.com/chengtiannan/k/main/Duboku.json"
+"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/Duboku.json"
 },
 {
 "key": "csp_xpath_dm84",
-"name": "动漫巴士(XPath)",
+"name": "动漫巴士(XP)",
 "type": 3,
 "api": "csp_XPath",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "https://raw.githubusercontent.com/chengtiannan/k/main/dm84.json"
+"ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/dm84.json"
+},
+{
+"key": "csp_Auete",
+"name": "Auete(爬虫)",
+"type": 3,
+"api": "csp_Auete",
+"searchable": 1,
+"quickSearch": 0,
+"filterable": 1
+},
+{
+"key": "csp_Cokemv",
+"name": "Cokemv(爬虫)",
+"type": 3,
+"api": "csp_Cokemv",
+"searchable": 1,
+"quickSearch": 0,
+"filterable": 1
+},
+{
+"key": "csp_Enlienli",
+"name": "嗯哩嗯哩(爬虫)",
+"type": 3,
+"api": "csp_Enlienli",
+"searchable": 1,
+"quickSearch": 0,
+"filterable": 1
 },
 {
 "key":"csp_xpath_pianba",
@@ -79,7 +104,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable": 0,
-"ext":"https://raw.githubusercontent.com/chengtiannan/k/main/pianba.json"
+"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/pianba.json"
 }
 ],
 "lives": [
@@ -90,7 +115,6 @@
 "name": "redirect",
 "urls": [
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="
-//"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NoZW5ndGlhbm5hbi9rL21haW4vbWFvbGl2ZS50eHQ=="
 ]
 }
 ]
@@ -115,12 +139,12 @@
 {
 "name": "麻花视频",
 "type": 1,
-"url": "http://jf.tcspvip.com:246/home/api?type=ys&uid=65404&key=bjoprtvyABGIMPXZ27&url="
+"url": "https://humaosp.com/json.php?url="
 },
 {
 "name": "黄河",
 "type": 1,
-"url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="
+"url": "https://json.pangujiexi.com:12345/json.php?url="
 },
 {
 "name": "筋斗云",
@@ -130,7 +154,7 @@
 {
 "name": "绿箭1",
 "type": 1,
-"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url="
+"url": "https://play.tkys.tv/jh/longteng.php/?url="
 },
 {
 "name": "久九",
@@ -226,7 +250,6 @@
 "wasu",
 "bilibili"
 ],
-//"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 "spider": "https://jar1234.coding.net/p/m/d/m/git/raw/master/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
 "ijk": [
 {
@@ -450,3 +473,4 @@
 "cms.qdwght.com"
 ]
 }
+
