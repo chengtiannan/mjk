@@ -1,6 +1,6 @@
 
 {
-"spider":"https://github.com/chengtiannan/k/blob/main/0627.jar",
+"spider":"http://yosakoi.tk:5716/d/Alist/tvbox/bc.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lvc2Frb2kudGs6NTcxNi9kL0FsaXN0L3R2Ym94L3R2L2JjLnR4dA=="]}]}],
 
